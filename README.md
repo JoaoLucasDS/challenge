@@ -1,6 +1,6 @@
 # Novos desenvolvedores
 
-TL;DR; Para este desafio você precisará construir esta maravilhosa landing page utilizando algum framework Javascript (React, VueJS, Angular, Svelte, etc.).
+TL;DR; Para este desafio você precisará construir esta maravilhosa landing page utilizando algum framework Javascript (React, VueJS, Svelte, etc.).
 
 ![Etrader Landing](assets/landing.png)
 
@@ -24,7 +24,7 @@ Eis aqui o que você precisa fazer. Vamos lá:
 ### Bônus pra quem é bão memo, o bixão
 Se você é fera e quiser uma atenção especial, faça algo ou tudo da lista abaixo:
 - Utilize Scss/Less
-- Utilize alguma biblioteca de ícones (Feather, FontAwesome, etc) via Javascript
+- Utilize alguma biblioteca de ícones (antd, Feather, FontAwesome, etc) via Javascript
 - Crie uma API REST em Javascript (usando express, AdonisJS, etc.) que possua apenas uma rota chamada ```/features```. Esta rota deve devolver em formato lista/array as informações dos cards da área lateral direita (fundo laranja). Substitua o contúdo fixo e faça com que a landing consuma desta API e exiba as mesmas informações. Por fim, coloque o código desta API em uma pasta chamada ```api``` e entregue junto. Não se esqueça de colocar as instruções de como iniciar a API localmente na seção **Build da minha landing**
 
 ### Build da minha landing
