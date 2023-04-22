@@ -11,7 +11,7 @@
       </a-row>
       
       <a-divider type="vertical" style="height: 100px; background-color: white"/>
-      <div style="width: 45%; padding-left: 5%;  padding-top: 5%;">
+      <div style="width: 45%; padding-left: 5%;  padding-top: 2%;">
         <slot style=" width: 100%; font-weight: 400; margin: 0;"/>
       </div>
       
