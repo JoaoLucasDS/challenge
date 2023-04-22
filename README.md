@@ -28,7 +28,7 @@ Se você é fera e quiser uma atenção especial, faça algo ou tudo da lista ab
 - Crie uma API REST em Javascript (usando express, AdonisJS, etc.) que possua apenas uma rota chamada ```/features```. Esta rota deve devolver em formato lista/array as informações dos cards da área lateral direita (fundo laranja). Substitua o contúdo fixo e faça com que a landing consuma desta API e exiba as mesmas informações. Por fim, coloque o código desta API em uma pasta chamada ```api``` e entregue junto. Não se esqueça de colocar as instruções de como iniciar a API localmente na seção **Build da minha landing**
 
 ### Build da minha landing
-+ Para rodar o projeto siga os seguintes passos:
+Para rodar o projeto siga os seguintes passos:
 1. Verifique e ou instale as dependecias necessarias para o uso do gerenciador de pacotes ```yarn```
     * Para mais informações para esse passo, verificar https://classic.yarnpkg.com/en/
 2. Instale as dependencias com o comando ```yarn``` ou ```yarn install```
